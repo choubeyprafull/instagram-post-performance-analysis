@@ -43,3 +43,4 @@ This analysis focuses on identifying the effectiveness of different types of Ins
 ## 📌 Conclusion
 
 This project demonstrates how SQL can be used for social media analytics. Using structured data from Instagram posts, we uncover what drives performance and how different content types behave.
+
